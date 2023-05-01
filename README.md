@@ -8,3 +8,8 @@ The project could involve using computer-aided design (CAD) software, such as Au
 In addition to creating the 3D model, the project could also involve creating animations and visual effects to bring the virtual landscape to life. For example, an animation could be created to simulate the movement of water in the Kaptai Lake, or visual effects could be added to simulate the changing colors of the forest during different times of the day.
 
 Finally, the project could involve integrating the 3D model into a real-time interactive application, such as a video game or virtual tour. This would allow users to explore the virtual landscape of Rangamati in an immersive way, providing an opportunity to learn about the region's natural beauty and cultural heritage.
+
+
+# Screanshots
+
+![preview7](https://user-images.githubusercontent.com/77823025/235451290-b784c63b-d0ce-40dd-8a48-3dd0f0b3c702.png)
